@@ -1,0 +1,2 @@
+=> ý tưởng làm đồ án:
+1. Thiết kế ứng dụng  mobie và web liên quan đến việc đăng ký dịch vụ cho sinh viên
